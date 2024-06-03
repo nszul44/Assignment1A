@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(163, 167, 210);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    color: navy;
+    text-align: center;
+    font-family: monaco, "Courier New", monospace;
+}
+
+.button {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+div {
+    margin-left: 38%;
+}
