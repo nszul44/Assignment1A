@@ -17,3 +17,16 @@ p {
     font-size: 20px;
     text-align: left;
 }
+
+.button {
+    background-color: rgb(163, 167, 210);
+    color: navy;
+    font-family: monaco, "Courier New", monospace;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
