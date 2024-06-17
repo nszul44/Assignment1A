@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(0,255,255, 0.1);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(163, 167, 210);
+    color: navy;
+    text-align: center;
+    font-family: monaco, "Courier New", monospace;
+}
+ul {
+    font-family: "Times New Roman", Garamond, serif;
+    font-size: 30px;
+    
+    padding: 120px;
+    text-align: left;
+}
+
+div {
+    column-count: 3;
+
+}
+
+.button {
+    background-color: rgb(163, 167, 210);
+    color: navy;
+    font-family: monaco, "Courier New", monospace;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
+button {
+    background-color: rgb(163, 167, 210);
+    color: navy;
+    text-align: center;
+    font-family: monaco, "Courier New", monospace;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    display:inline-block;
+    font-size: medium;
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
